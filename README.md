@@ -16,7 +16,7 @@
 
 fid即115为每个文件赋予的id
 
-cid即115为每个文件夹赋予的idCancel changes
+cid即115为每个文件夹赋予的id
 
 pid为当前文件/文件夹所在文件夹id
 
