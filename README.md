@@ -5,6 +5,7 @@
 ### cookies
 
 默认调用chrome的cookies
+
 由于115网页有在线检测, 故须保持chrome登录状态
 
 ### 代理
@@ -14,7 +15,9 @@
 ### 参数名
 
 fid即115为每个文件赋予的id
-cid即115为每个文件夹赋予的id
+
+cid即115为每个文件夹赋予的idCancel changes
+
 pid为当前文件/文件夹所在文件夹id
 
 ### 用处
