@@ -1,6 +1,6 @@
 # py115
 
-基于115网盘api的python接口, 仅作研究目的
+python包装的115网盘webapi, 仅作研究目的
 
 ### cookies
 
